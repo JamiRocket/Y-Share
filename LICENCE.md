@@ -1,7 +1,7 @@
-The BeerWare LICENSE
+The DO WHAT THE FUCK YOU WANT BeerWare LICENSE
                     Version 42, December 2013
 
- Copyright (C) 2013 jamiroquet 
+ Copyright (C) 2013 jamiroquet
 
  Everyone is permitted to copy and distribute verbatim or modified
  copies of this license document, and changing it is allowed as long
