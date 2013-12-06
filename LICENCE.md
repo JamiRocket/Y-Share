@@ -10,7 +10,7 @@ The BeerWare LICENSE
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
-  01. You just DO WHAT THE FUCK YOU WANT TO.
-  10. If we meet some day, and you think this stuff is worth it, you can buy us a beer in return.
-  11. if you think this stuff is useless, you can buy us a beer anyway. 
-   4. if someone sold you this software, you've been f*ck*d up.
+   . You just DO WHAT THE FUCK YOU WANT TO.
+   . If we meet some day, and you think this stuff is worth it, you can buy us a beer in return.
+   . if you think this stuff is useless, you can buy us a beer anyway. 
+   . if someone sold you this software, you've been f*ck*d up.
