@@ -1,0 +1,32 @@
+#header {
+    background-color: black;
+    height:107px;
+    margin:0px;
+    padding-top:10px;
+    padding-left:10px;
+    position:relative;
+}
+
+#header #header_logo {
+    float:left;
+}
+
+#header #menubar {
+    position:absolute;
+    bottom:0px;
+    right:0px;
+}
+
+#header #menubar ul {
+    list-style-type:none;
+}
+
+#header #menubar li {
+    display:inline;
+    border-radius:15px 15px 0px 0px;
+    padding:12px;
+}
+
+#header #menubar li a {
+    color:white;
+}

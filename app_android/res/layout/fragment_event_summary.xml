@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent">
+	<RelativeLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent" >
+	
+	    <ImageView
+	        android:id="@+id/event_img"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentTop="true"
+	        android:layout_centerHorizontal="true"
+	        android:src="@drawable/ic_event_type_default" />
+	    
+	    <fragment
+	        android:id="@+id/map"
+	        android:name="com.google.android.gms.maps.MapFragment"
+	        android:layout_width="match_parent"
+	        android:layout_height="220dp"
+	        android:layout_below="@+id/event_img" />
+	
+	    <TextView
+	        android:id="@+id/username"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/map"
+	        android:layout_centerHorizontal="true"
+	        android:text="TextView" />
+	
+	    <RatingBar
+	        android:id="@+id/userRating"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/username"
+	        android:layout_centerHorizontal="true" />
+	
+	    <Button
+	        android:id="@+id/button1"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/userRating"
+	        android:layout_centerHorizontal="true"
+	        android:text="Button" />
+	
+	</RelativeLayout>
+</ScrollView>

@@ -1,0 +1,50 @@
+body {
+    background-color: #1f110b;
+    background-image: url('bg.png');
+    margin:auto;
+}
+
+#content {
+    margin:5px;
+    color:white;
+    padding:5px;
+    font-family:sans-serif,serif;
+}
+
+#float_break {
+    clear:both;
+}
+
+#star_rating {
+    font-weight:bold;
+    font-size:20px;
+}
+
+.star {
+    width:25px;
+}
+
+.bg_orange {
+    background-color: #ec4f17;
+}
+
+.bg_yellow {
+    background-color: #dcda1c;
+}
+
+.bg_green {
+    background-color: #19c315;
+}
+
+.bg_blue {
+    background-color: #424ae8;
+}
+
+.bg_purple {
+    background-color: #d41ee4;
+}
+
+
+h1 {
+    font-size:50px;
+}
