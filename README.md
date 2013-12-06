@@ -1,7 +1,7 @@
 Y-Share
 =======
 
-why share ? because i can ! 
+why share ? 
 
 Y-Share est une nouvelle facon de penser sa consommation.
 
